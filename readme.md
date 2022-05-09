@@ -16,7 +16,7 @@ Enjoy ! :)
 
 📐  Design  📐
 
-[screenshot](https://raw.githubusercontent.com/avilarino/weather-app/master/assets/images/weather-app.png)
+[Screenshot](https://raw.githubusercontent.com/avilarino/weather-app/master/assets/images/weather-app.png)
 
 
 

@@ -16,7 +16,7 @@ Enjoy ! :)
 
 📐  Design  📐
 
-[](https://raw.githubusercontent.com/avilarino/coderhouse-final-project/master/assets/images/weather-app.png)
+[](https://raw.githubusercontent.com/avilarino/weather-app/master/assets/images/weather-app.png)
 
 
 

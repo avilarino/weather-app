@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&display=swap');
+
+body {
+  font-family: 'Roboto Flex', sans-serif;
+}
+
+h1 {
+  margin-left: 5px;
+  letter-spacing: 5px
+
+}
+
+.container_app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #08415C;
+  width: 50%;
+  border-radius: 5px;
+  box-shadow: 5px 10px 8px #08415C;
+}
+
+.image_size {
+  width: 80px
+}
+
+.temperature_size {
+  font-size: 40px;
+  color: #CC2936
+}
+
+.container_title {
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center
+}
+
+.location_size {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 0;
+  color: #EBBAB9;
+  letter-spacing: 5px
+}
+
+.container_description {
+  display: flex;
+  flex-direction:row;
+  justify-content: space-around;
+  align-items: center;
+  color: #388697
+}
+
+#date {
+  color: #388697;
+  letter-spacing: 5px
+}

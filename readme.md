@@ -12,11 +12,12 @@ Enjoy ! :)
 -   HTML 5 semantic
 -   CSS
 -   Javascript
+-   API
 
 
 📐  Design  📐
 
-[Screenshot](https://raw.githubusercontent.com/avilarino/weather-app/master/assets/images/weather-app.png)
+![Screenshot](https://raw.githubusercontent.com/avilarino/weather-app/master/assets/images/weather-app.png)
 
 
 

@@ -20,8 +20,8 @@ const setWeatherData = data => {
   const weatherData = {
     location: data.name,
     description: data.weather[0].main,
-    humidity: data.main.humidity,
-    pressure: data.main.pressure,
+    humidity: "hm " + data.main.humidity,
+    pressure:"🌡 " +  data.main.pressure,
     temperature: data.main.temp + " º",
     date: getDate(),
     icon: document.getElementById("icon").src = "http://openweathermap.org/img/wn/"+data.weather[0].icon+".png"}

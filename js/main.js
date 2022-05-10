@@ -33,6 +33,16 @@ const setWeatherData = data => {
     document.getElementById(key).textContent = weatherData[key]
   })
 
+  cleanUp()
+
+}
+
+const cleanUp = () => {
+  let container = document.querySelector('.container_app');
+  let loader = document.getElementById('loader');
+
+  loader.style.display = 'none'; 
+  container.style.display = 'flex'; 
 }
 
 const getDate = () => {

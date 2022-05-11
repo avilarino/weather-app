@@ -20,6 +20,9 @@ Enjoy ! :)
 ![Screenshot](https://raw.githubusercontent.com/avilarino/weather-app/master/assets/images/weather-app.png)
 
 
+👓 Look the site in Github Pages
+
+ -   [Github](https://avilarino.github.io/weather-app/)
 
 Follow Me  🙌  ☎️
 
